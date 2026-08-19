@@ -120,7 +120,7 @@ p {
 }
 
 .browser-bar {
-    width: 100px;
+    width: 200px;
     height: 100%;
 }
 
@@ -285,7 +285,7 @@ p {
     }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 680px) {
     body {
         padding: 1rem;
     }
